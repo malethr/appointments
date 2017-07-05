@@ -1,0 +1,8 @@
+#story {
+  display: none;
+}
+
+.well {
+  background-image: url(https://storybird.s3.amazonaws.com/artwork/shishir/square/pig-love.jpeg);
+  height:500px;
+}
